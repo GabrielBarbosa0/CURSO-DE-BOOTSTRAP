@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+* {
+    box-shadow: inset 0px 0px 2px rgba(241, 0, 0, 0.8);
+}
+
+/* max largura = 1400px */
